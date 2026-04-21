@@ -10,7 +10,8 @@
       "import": "./dist/index.js",
       "types": "./dist/index.d.ts"
     },
-    "./main.css": "./src/main.css"
+    "./main.css": "./src/main.css",
+    "./package.json": "./package.json"
   },
   "files": ["dist", "src/main.css"],
   "scripts": {
