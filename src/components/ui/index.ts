@@ -147,3 +147,5 @@ export {
   SidebarTrigger,
   useSidebar,
 } from "./sidebar";
+export { Slider } from "./slider";
+export { Switch } from "./switch";
