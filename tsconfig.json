@@ -14,7 +14,8 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": ["src/*"],
+      "@listo/ui-kit": ["src/index.ts"]
     }
   },
   "include": ["src"],
